@@ -1,1 +1,1 @@
-# Kaushal-Kandhari-Assignment-3.2-Create-an-API-that-could-manage-the-Mongo-DB-for-data.
+This is the code to add, update delete the data in the Mongo DB from the cricket.json file we made in the previous assignmen and then run the server. All data is stored as BSON documents with the help of key-value pairs. At the backend, MongoDB converts JSON data into a binary format known as BSON. MongoDB also makes provision for nested data. This makes fetching data comparatively efficient. 
